@@ -1,2 +1,5 @@
-# gio-desafio-github-primeiro-repositorio-gustavo
-Desafio de projeto sobre Git-Github
+# Desafio de Projeto sobre Git/Github Gustavo
+Repositório criado - Desafio de projeto DIO
+
+## Links Úteis 
+(https://www.markdownguide.org/)
